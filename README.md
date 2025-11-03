@@ -3,17 +3,17 @@
 Fix function keys on TKL and compact keyboards under Linux. These will stop working as media control keys as expected.
 
 TESTED DISTROS:
-- Fedora 38/39/40/41/42*
+- Fedora 38/39/40/41/42/43*
 - Debian 11/12/13
-- Ubuntu 22.04/24.04/25.04
-- Linux Mint 22/22.1
+- Ubuntu 22.04/24.04/25.04/25.10
+- Linux Mint 21.x/22.x
 - OpenSUSE Tumbleweed
 - Arch Linux
 
 TESTED KEYBOARDS
 - Newskill Serike V2 TKL
 
-*Fedora 42 requires FnKeys V2 or later.
+*Fedora 42 and later require FnKeys V2 or newer.
 
 **If your distro doesn't use systemd, FnKeys may not work at all.**
 **I haven't tested that.**
