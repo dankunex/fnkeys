@@ -3,9 +3,9 @@
 Fix function keys on TKL and compact keyboards under Linux. These will stop working as media control keys as expected.
 
 TESTED DISTROS:
-- Fedora 38/39/40/41/42/43*
+- Fedora 38/39/40/41/42/43/44*
 - Debian 11/12/13
-- Ubuntu 22.04/24.04/25.04/25.10
+- Ubuntu 22.04/24.04/25.04/25.10/26.04
 - Linux Mint 21.x/22.x
 - OpenSUSE Tumbleweed
 - Arch Linux
@@ -15,11 +15,11 @@ TESTED KEYBOARDS
 
 *Fedora 42 and later require FnKeys V2 or newer.
 
-**If your distro doesn't use systemd, FnKeys may not work at all.**
+**If your distro doesn't use systemd, fnKeys may not work at all.**
 **I haven't tested that.**
 
 ## Installation
-1. [Download FnKeys](https://github.com/ivandfx/fnkeys/releases)
+1. [Download fnKeys](https://github.com/ivandfx/fnkeys/releases)
 
 2. After downloading, go to the folder where FnKeys is located and open a terminal window.
 
