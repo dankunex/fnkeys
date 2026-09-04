@@ -1,6 +1,5 @@
 # FnKeys
-
-Fix function keys on TKL and compact keyboards under Linux by restoring them to standard F1-F12.
+Restore standard F1-F12 functionality on TKL and other keyboards under Linux.
 
 ## COMPATIBILITY
 fnKeys works on any standard Linux distribution that relies on systemd for persistence.
