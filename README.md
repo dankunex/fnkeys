@@ -1,18 +1,18 @@
-# FnKeys
-Restore standard F1-F12 functionality on TKL and other keyboards under Linux.
+# fnKeys
+Restore standard F1-F12 functionality on TKL and other keyboards on Linux.
 
-## COMPATIBILITY
+## Compatibility
 fnKeys works on any standard Linux distribution that relies on systemd for persistence.
 
 - Supported: Any non-immutable systemd distro (e.g., Ubuntu, Debian, Fedora, Arch, Linux Mint, openSUSE).
 - Untested/Unsupported: Immutable distros (e.g., Bazzite, Fedora Kinoite) and non-systemd distros.
 
-## TESTED KEYBOARDS
+## Tested keyboards
 - Newskill Serike V2 TKL
 
 Feel free to open an issue if your keyboard also works!
 
-## HOW TO INSTALL
+## How to install
 Go to the official [website](https://dankunex.com/labs/fnkeys) and follow it.
 
-Under a GPLv3 license.
+fnKeys is licensed under the GPLv3.
